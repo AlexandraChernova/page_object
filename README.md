@@ -1,1 +1,1 @@
- 
+[![Build status](https://ci.appveyor.com/api/projects/status/y0sq59p86l2mfmfm?svg=true)](https://ci.appveyor.com/project/AlexandraChernova/page-object)
